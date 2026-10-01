@@ -1,0 +1,255 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8803ab58-63b9-43ab-bcd1-7dc0f77b8b51")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 114.3 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "74eb48f4-2b74-495c-b4e9-2be5b18dd058")
+	)
+	(sheet
+		(at 115.57 27.94)
+		(size 76.2 67.31)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0c16b760-38c6-480f-a3c4-0f338d52cc28")
+		(property "Sheetname" "POWER SUPPLY"
+			(at 115.57 27.2284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER SUPPLY.kicad_sch"
+			(at 115.57 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Home Automation"
+				(path "/8803ab58-63b9-43ab-bcd1-7dc0f77b8b51"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 100.33)
+		(size 71.12 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "37b7dfa6-9cf9-4996-ac6a-e6210fe58498")
+		(property "Sheetname" "Switch  Input Section"
+			(at 123.19 99.6184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Switch  Input Section .kicad_sch"
+			(at 123.19 155.5246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Home Automation"
+				(path "/8803ab58-63b9-43ab-bcd1-7dc0f77b8b51"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 27.94)
+		(size 72.39 71.12)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "44f518f8-9b64-4d88-9956-1cf6042637dd")
+		(property "Sheetname" "ESP32"
+			(at 30.48 27.2284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 30.48 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Home Automation"
+				(path "/8803ab58-63b9-43ab-bcd1-7dc0f77b8b51"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 30.48)
+		(size 74.93 73.66)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f1883bbf-b614-4232-a493-c10677fc77e3")
+		(property "Sheetname" "SENSOR & LCD"
+			(at 203.2 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SENSOR.kicad_sch"
+			(at 203.2 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Home Automation"
+				(path "/8803ab58-63b9-43ab-bcd1-7dc0f77b8b51"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 115.57)
+		(size 62.23 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f56e6c26-755c-472e-a790-45bfd5c91ea7")
+		(property "Sheetname" "RELAY SECTION"
+			(at 34.29 114.8584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RELAY SECTION.kicad_sch"
+			(at 34.29 164.4146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Home Automation"
+				(path "/8803ab58-63b9-43ab-bcd1-7dc0f77b8b51"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

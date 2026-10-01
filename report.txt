@@ -1,0 +1,711 @@
+Info: Processing symbol 'AC1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'K2:Relay_THT:Relay_SPDT_Finder_36.11'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'R1:Resistor_SMD:R_01005_0402Metric'.
+Info: Processing symbol 'LIGHT1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal'.
+Info: Processing symbol 'C5:Capacitor_SMD:CP_Elec_8x6.2'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'D1:LED_THT:LED_D1.8mm_W3.3mm_H2.4mm'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left'.
+Info: Processing symbol 'K1:Relay_THT:Relay_SPDT_Finder_36.11'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left'.
+Info: Processing symbol 'J2:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal'.
+Info: Processing symbol 'K3:Relay_THT:Relay_SPDT_Finder_36.11'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0201_0603Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:CP_Elec_8x6.2'.
+Info: Processing symbol 'C6:Capacitor_SMD:CP_Elec_8x6.2'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'EXHAUST1:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal'.
+Info: Processing symbol 'R3:OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP'.
+Info: Processing symbol 'SW2:Button_Switch_SMD:SW_SPST_B3U-1000P'.
+Info: Processing symbol 'SW3:Button_Switch_SMD:SW_SPST_B3U-1000P'.
+Info: Processing symbol 'SW4:Button_Switch_SMD:SW_SPST_B3U-1000P'.
+Info: Processing symbol 'SW5:Button_Switch_SMD:SW_SPST_B3U-1000P'.
+Info: Processing symbol 'U1:RF_Module:ESP32-WROOM-32'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:TO-252-2'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'U4:Package_DIP:DIP-4_W7.62mm'.
+Info: Processing symbol 'U5:Package_DIP:DIP-4_W7.62mm'.
+Info: Processing symbol 'U6:Package_DIP:DIP-4_W7.62mm'.
+Connected C1 pin 1 to VCC3V3.
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0201_0603Metric to C.
+Updated C2 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/6f32f45b-6b22-4d89-a91c-818fefe7351c.
+Updated C2 fields.
+Updated C2 sheetname to '/ESP32/'.
+Updated C2 sheetfile to 'ESP32.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to VCC3V3.
+Connected C2 pin 1 to VCC3V3.
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0201_0603Metric to C.
+Updated C3 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/b4acad04-bc14-45c3-b384-ed143e620252.
+Updated C3 fields.
+Updated C3 sheetname to '/ESP32/'.
+Updated C3 sheetfile to 'ESP32.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to VCC3V3.
+Connected C3 pin 1 to VCC3V3.
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_SMD:CP_Elec_8x6.2').
+Changed REF** reference designator to C4.
+Changed C4 value from CP_Elec_8x6.2 to C_Polarized_Small.
+Updated C4 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/b55ee3c8-6440-4df8-a678-27c0aab12f97.
+Updated C4 fields.
+Updated C4 sheetname to '/POWER SUPPLY/'.
+Updated C4 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated C4 footprint filters to 'CP_*'.
+Connected C4 pin 2 to VCC3V3.
+Connected C4 pin 1 to /POWER SUPPLY/12VDC.
+Updated C4 unit metadata.
+Added C5 (footprint 'Capacitor_SMD:CP_Elec_8x6.2').
+Changed REF** reference designator to C5.
+Changed C5 value from CP_Elec_8x6.2 to C_Polarized_Small.
+Updated C5 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/04dfe554-bd76-4661-a2c8-096823c01e5e.
+Updated C5 fields.
+Updated C5 sheetname to '/POWER SUPPLY/'.
+Updated C5 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated C5 footprint filters to 'CP_*'.
+Connected C5 pin 1 to 5VDC.
+Connected C5 pin 2 to VCC3V3.
+Updated C5 unit metadata.
+Added C6 (footprint 'Capacitor_SMD:CP_Elec_8x6.2').
+Changed REF** reference designator to C6.
+Changed C6 value from CP_Elec_8x6.2 to C_Polarized_Small.
+Updated C6 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/084daaa8-e109-4bf7-b2a5-54712366abc8.
+Updated C6 fields.
+Updated C6 sheetname to '/POWER SUPPLY/'.
+Updated C6 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated C6 footprint filters to 'CP_*'.
+Connected C6 pin 1 to /POWER SUPPLY/12VDC.
+Connected C6 pin 2 to VCC3V3.
+Updated C6 unit metadata.
+Added D1 (footprint 'LED_THT:LED_D1.8mm_W3.3mm_H2.4mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D1.8mm_W3.3mm_H2.4mm to LED.
+Updated D1 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/bce009dc-5a90-4e3e-9dfe-c0037356dfdf.
+Updated D1 fields.
+Updated D1 sheetname to '/POWER SUPPLY/'.
+Updated D1 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to VCC3V3.
+Updated D1 unit metadata.
+Added D2 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D2.
+Changed D2 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4007.
+Updated D2 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/6a71d49d-b0bd-42d8-8535-8eb49e6da0ef.
+Updated D2 fields.
+Updated D2 sheetname to '/RELAY SECTION/'.
+Updated D2 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated D2 footprint filters to 'D*DO?41*'.
+Connected D2 pin 2 to Net-(D2-A).
+Connected D2 pin 1 to 5VDC.
+Updated D2 unit metadata.
+Added D3 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D3.
+Changed D3 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4007.
+Updated D3 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/2f8a4580-fe33-4165-8885-315b42a54487.
+Updated D3 fields.
+Updated D3 sheetname to '/RELAY SECTION/'.
+Updated D3 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated D3 footprint filters to 'D*DO?41*'.
+Connected D3 pin 2 to Net-(D3-A).
+Connected D3 pin 1 to 5VDC.
+Updated D3 unit metadata.
+Added D4 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D4.
+Changed D4 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4007.
+Updated D4 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/cd8f28c0-ff7d-4156-9ec2-cf2e79bd3a3d.
+Updated D4 fields.
+Updated D4 sheetname to '/RELAY SECTION/'.
+Updated D4 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated D4 footprint filters to 'D*DO?41*'.
+Connected D4 pin 2 to Net-(D4-A).
+Connected D4 pin 1 to 5VDC.
+Updated D4 unit metadata.
+Added EXHAUST1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal').
+Changed REF** reference designator to EXHAUST1.
+Changed EXHAUST1 value from TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal to Screw_Terminal_01x03.
+Updated EXHAUST1 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/6a2bf17e-7742-47c3-aed0-58342c33c55c.
+Updated EXHAUST1 fields.
+Updated EXHAUST1 sheetname to '/RELAY SECTION/'.
+Updated EXHAUST1 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated EXHAUST1 footprint filters to 'TerminalBlock*:*'.
+Add net Net-(EXHAUST1-Pin_2).
+Connected EXHAUST1 pin 2 to Net-(EXHAUST1-Pin_2).
+Add net Net-(EXHAUST1-Pin_3).
+Connected EXHAUST1 pin 3 to Net-(EXHAUST1-Pin_3).
+Connected EXHAUST1 pin 1 to Net-(EXHAUST1-Pin_1).
+Updated EXHAUST1 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left to Conn_01x04.
+Updated J1 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/ef5bf07b-7c74-46ad-abf0-624df3953f47.
+Updated J1 fields.
+Updated J1 sheetname to '/ESP32/'.
+Updated J1 sheetfile to 'ESP32.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 3 to /ESP32/RXD.
+Connected J1 pin 4 to VCC3V3.
+Connected J1 pin 1 to VCC3V3.
+Connected J1 pin 2 to /ESP32/TXD.
+Updated J1 unit metadata.
+Added J2 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal to Conn_01x02_Pin.
+Updated J2 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/d61f7629-839f-432a-a5e5-e14e24f40628.
+Updated J2 fields.
+Updated J2 sheetname to '/POWER SUPPLY/'.
+Updated J2 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 1 to /POWER SUPPLY/12VDC.
+Connected J2 pin 2 to VCC3V3.
+Updated J2 unit metadata.
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left to Conn_01x03.
+Updated J3 symbol association from  to /f1883bbf-b614-4232-a493-c10677fc77e3/f4c5ab60-ec3b-4edd-a687-485769b88270.
+Updated J3 fields.
+Updated J3 sheetname to '/SENSOR &amp; LCD/'.
+Updated J3 sheetfile to 'SENSOR.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Connected J3 pin 3 to VCC3V3.
+Connected J3 pin 2 to DHT11.
+Connected J3 pin 1 to VCC3V3.
+Updated J3 unit metadata.
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left').
+Changed REF** reference designator to J4.
+Changed J4 value from PinHeader_1x04_P2.54mm_Vertical_SMD_Pin1Left to Conn_01x04.
+Updated J4 symbol association from  to /f1883bbf-b614-4232-a493-c10677fc77e3/e4dabcc8-f715-41f5-8b5e-6d331aa259e2.
+Updated J4 fields.
+Updated J4 sheetname to '/SENSOR &amp; LCD/'.
+Updated J4 sheetfile to 'SENSOR.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Connected J4 pin 4 to SCL.
+Connected J4 pin 2 to 5VDC.
+Connected J4 pin 1 to VCC3V3.
+Connected J4 pin 3 to SDA.
+Updated J4 unit metadata.
+Added J5 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left').
+Changed REF** reference designator to J5.
+Changed J5 value from PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left to Conn_01x06.
+Updated J5 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/232ba341-bcb6-4051-8aff-b8c015e195df.
+Updated J5 fields.
+Updated J5 sheetname to '/Switch  Input Section/'.
+Updated J5 sheetfile to 'Switch  Input Section .kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Add net /Switch  Input Section/OSW2.
+Connected J5 pin 3 to /Switch  Input Section/OSW2.
+Add net /Switch  Input Section/OSW1.
+Connected J5 pin 2 to /Switch  Input Section/OSW1.
+Add net /Switch  Input Section/OSW3.
+Connected J5 pin 4 to /Switch  Input Section/OSW3.
+Add net /Switch  Input Section/OSW4.
+Connected J5 pin 5 to /Switch  Input Section/OSW4.
+Add net /Switch  Input Section/0DC3V3.
+Connected J5 pin 1 to /Switch  Input Section/0DC3V3.
+Add net /Switch  Input Section/GND.
+Connected J5 pin 6 to /Switch  Input Section/GND.
+Updated J5 unit metadata.
+Added K1 (footprint 'Relay_THT:Relay_SPDT_Finder_36.11').
+Changed REF** reference designator to K1.
+Changed K1 value from Relay_SPDT_Finder_36.11 to Fujitsu_FTR-LYCA005x.
+Updated K1 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/f85a626b-ff99-4a8d-bb99-c92ab4cd9a0d.
+Updated K1 fields.
+Updated K1 sheetname to '/RELAY SECTION/'.
+Updated K1 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated K1 footprint filters to 'Relay*Fujitsu*FTR?LYC*'.
+Connected K1 pin 14 to Net-(AC1-Pin_1).
+Connected K1 pin 12 to Net-(AC1-Pin_3).
+Connected K1 pin 11 to Net-(AC1-Pin_2).
+Connected K1 pin A2 to Net-(D2-A).
+Connected K1 pin A1 to 5VDC.
+Updated K1 unit metadata.
+Added K2 (footprint 'Relay_THT:Relay_SPDT_Finder_36.11').
+Changed REF** reference designator to K2.
+Changed K2 value from Relay_SPDT_Finder_36.11 to Fujitsu_FTR-LYCA005x.
+Updated K2 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/1e986cf5-c2b3-4320-9645-abfdec8090d0.
+Updated K2 fields.
+Updated K2 sheetname to '/RELAY SECTION/'.
+Updated K2 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated K2 footprint filters to 'Relay*Fujitsu*FTR?LYC*'.
+Connected K2 pin A1 to 5VDC.
+Connected K2 pin 11 to Net-(LIGHT1-Pin_2).
+Connected K2 pin 12 to Net-(LIGHT1-Pin_3).
+Connected K2 pin A2 to Net-(D3-A).
+Connected K2 pin 14 to Net-(LIGHT1-Pin_1).
+Updated K2 unit metadata.
+Added K3 (footprint 'Relay_THT:Relay_SPDT_Finder_36.11').
+Changed REF** reference designator to K3.
+Changed K3 value from Relay_SPDT_Finder_36.11 to Fujitsu_FTR-LYCA005x.
+Updated K3 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/5b37cffe-6a2a-45df-9b7b-f2111f0a8f2e.
+Updated K3 fields.
+Updated K3 sheetname to '/RELAY SECTION/'.
+Updated K3 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated K3 footprint filters to 'Relay*Fujitsu*FTR?LYC*'.
+Connected K3 pin A2 to Net-(D4-A).
+Connected K3 pin 11 to Net-(EXHAUST1-Pin_2).
+Connected K3 pin A1 to 5VDC.
+Connected K3 pin 12 to Net-(EXHAUST1-Pin_3).
+Connected K3 pin 14 to Net-(EXHAUST1-Pin_1).
+Updated K3 unit metadata.
+Added LIGHT1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal').
+Changed REF** reference designator to LIGHT1.
+Changed LIGHT1 value from TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal to Screw_Terminal_01x03.
+Updated LIGHT1 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/bcc17f84-04d4-4411-80c5-22927754be66.
+Updated LIGHT1 fields.
+Updated LIGHT1 sheetname to '/RELAY SECTION/'.
+Updated LIGHT1 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated LIGHT1 footprint filters to 'TerminalBlock*:*'.
+Connected LIGHT1 pin 1 to Net-(LIGHT1-Pin_1).
+Connected LIGHT1 pin 3 to Net-(LIGHT1-Pin_3).
+Connected LIGHT1 pin 2 to Net-(LIGHT1-Pin_2).
+Updated LIGHT1 unit metadata.
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-92_Inline to NPN.
+Updated Q1 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/2f3ee4ac-fbdd-4d58-b346-ef8ad57af829.
+Updated Q1 fields.
+Updated Q1 sheetname to '/RELAY SECTION/'.
+Updated Q1 sheetfile to 'RELAY SECTION.kicad_sch'.
+Connected Q1 pin 2 to Net-(Q1-B).
+Connected Q1 pin 3 to VCC3V3.
+Connected Q1 pin 1 to Net-(D2-A).
+Updated Q1 unit metadata.
+Added Q2 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q2.
+Changed Q2 value from TO-92_Inline to NPN.
+Updated Q2 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/5a72872c-ee44-4dc1-8a3e-0f315eaefd69.
+Updated Q2 fields.
+Updated Q2 sheetname to '/RELAY SECTION/'.
+Updated Q2 sheetfile to 'RELAY SECTION.kicad_sch'.
+Connected Q2 pin 1 to Net-(D3-A).
+Connected Q2 pin 2 to Net-(Q2-B).
+Connected Q2 pin 3 to VCC3V3.
+Updated Q2 unit metadata.
+Added Q3 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Changed REF** reference designator to Q3.
+Changed Q3 value from TO-92_Inline to NPN.
+Updated Q3 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/e808b1eb-a329-4049-9dd3-be142494ab50.
+Updated Q3 fields.
+Updated Q3 sheetname to '/RELAY SECTION/'.
+Updated Q3 sheetfile to 'RELAY SECTION.kicad_sch'.
+Connected Q3 pin 3 to VCC3V3.
+Connected Q3 pin 1 to Net-(D4-A).
+Connected Q3 pin 2 to Net-(Q3-B).
+Updated Q3 unit metadata.
+Added R1 (footprint 'Resistor_SMD:R_01005_0402Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_01005_0402Metric to R.
+Updated R1 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/038b94ec-32e8-47cd-a564-60f1bbf93ee0.
+Updated R1 fields.
+Updated R1 sheetname to '/ESP32/'.
+Updated R1 sheetfile to 'ESP32.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to VCC3V3.
+Connected R1 pin 2 to VCC3V3.
+Updated R1 unit metadata.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 330 OHM.
+Updated R2 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/6b743f4c-f870-426c-8d8a-2937b3b2cb23.
+Updated R2 fields.
+Updated R2 sheetname to '/POWER SUPPLY/'.
+Updated R2 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to 5VDC.
+Connected R2 pin 1 to Net-(D1-A).
+Updated R2 unit metadata.
+Added R3 (footprint 'OptoDevice:R_LDR_5.1x4.3mm_P3.4mm_Vertical').
+Changed REF** reference designator to R3.
+Changed R3 value from R_LDR_5.1x4.3mm_P3.4mm_Vertical to LDR07.
+Updated R3 symbol association from  to /f1883bbf-b614-4232-a493-c10677fc77e3/ff775063-e9f0-475b-bc74-25fc13233cca.
+Updated R3 fields.
+Updated R3 sheetname to '/SENSOR &amp; LCD/'.
+Updated R3 sheetfile to 'SENSOR.kicad_sch'.
+Updated R3 footprint filters to 'R*LDR*5.1x4.3mm*P3.4mm*'.
+Connected R3 pin 1 to VCC3V3.
+Connected R3 pin 2 to LDR.
+Updated R3 unit metadata.
+Added R4 (footprint 'Resistor_SMD:R_0201_0603Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0201_0603Metric to R.
+Updated R4 symbol association from  to /f1883bbf-b614-4232-a493-c10677fc77e3/902881d4-91a3-4873-90f8-29e7ea83632b.
+Updated R4 fields.
+Updated R4 sheetname to '/SENSOR &amp; LCD/'.
+Updated R4 sheetfile to 'SENSOR.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to LDR.
+Connected R4 pin 2 to VCC3V3.
+Updated R4 unit metadata.
+Added AC1 (footprint 'TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal').
+Added R5 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R5.
+Changed R5 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to R.
+Updated R5 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/fecb163a-4b5d-4006-bde2-931f8ed0fe16.
+Updated R5 fields.
+Updated R5 sheetname to '/RELAY SECTION/'.
+Updated R5 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 1 to R1.
+Connected R5 pin 2 to Net-(R5-Pad2).
+Updated R5 unit metadata.
+Changed REF** reference designator to AC1.
+Added R6 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to R.
+Updated R6 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/ced355cd-8b46-4b58-b20a-e27167e76845.
+Updated R6 fields.
+Updated R6 sheetname to '/RELAY SECTION/'.
+Updated R6 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 1 to R2.
+Connected R6 pin 2 to Net-(R6-Pad2).
+Updated R6 unit metadata.
+Changed AC1 value from TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal to Screw_Terminal_01x03.
+Added R7 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to R.
+Updated R7 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/36cfeb23-d960-45ea-a19a-5718d8ee0fba.
+Updated R7 fields.
+Updated R7 sheetname to '/RELAY SECTION/'.
+Updated R7 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 2 to Net-(Q1-B).
+Connected R7 pin 1 to Net-(R7-Pad1).
+Updated R7 unit metadata.
+Updated AC1 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/cfbc4f50-67b8-4944-9f84-a50c68397e88.
+Added R8 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to R.
+Updated R8 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/607f91e4-253d-4b1a-9290-67e138b34eec.
+Updated R8 fields.
+Updated R8 sheetname to '/RELAY SECTION/'.
+Updated R8 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 1 to Net-(R8-Pad1).
+Connected R8 pin 2 to Net-(Q2-B).
+Updated R8 unit metadata.
+Updated AC1 fields.
+Added R9 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to R.
+Updated R9 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/d8beebb1-50a7-4b04-b386-70865acb90ba.
+Updated R9 fields.
+Updated R9 sheetname to '/RELAY SECTION/'.
+Updated R9 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated R9 footprint filters to 'R_*'.
+Connected R9 pin 1 to R3.
+Connected R9 pin 2 to Net-(R9-Pad2).
+Updated R9 unit metadata.
+Updated AC1 sheetname to '/RELAY SECTION/'.
+Added R10 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R10.
+Changed R10 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to R.
+Updated R10 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/ec0cdefb-3b28-4ffd-919f-9b4f03f40030.
+Updated R10 fields.
+Updated R10 sheetname to '/RELAY SECTION/'.
+Updated R10 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated R10 footprint filters to 'R_*'.
+Connected R10 pin 2 to Net-(Q3-B).
+Connected R10 pin 1 to Net-(R10-Pad1).
+Updated R10 unit metadata.
+Updated AC1 sheetfile to 'RELAY SECTION.kicad_sch'.
+Added R11 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R11.
+Changed R11 value from R_0603_1608Metric to R.
+Updated R11 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/2117075e-a463-4e7b-8cea-9ccf8bc7d803.
+Updated R11 fields.
+Updated R11 sheetname to '/Switch  Input Section/'.
+Updated R11 sheetfile to 'Switch  Input Section .kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Connected R11 pin 2 to /Switch  Input Section/0DC3V3.
+Connected R11 pin 1 to /Switch  Input Section/OSW1.
+Updated R11 unit metadata.
+Updated AC1 footprint filters to 'TerminalBlock*:*'.
+Added R12 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R12.
+Changed R12 value from R_0603_1608Metric to R.
+Updated R12 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/e1740305-4e92-464b-9059-c0c7f596dac0.
+Updated R12 fields.
+Updated R12 sheetname to '/Switch  Input Section/'.
+Updated R12 sheetfile to 'Switch  Input Section .kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Connected R12 pin 1 to /Switch  Input Section/OSW2.
+Add net /Switch  Input Section/SW_DC3V3.
+Connected R12 pin 2 to /Switch  Input Section/SW_DC3V3.
+Updated R12 unit metadata.
+Connected AC1 pin 1 to Net-(AC1-Pin_1).
+Added R13 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0603_1608Metric to R.
+Updated R13 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/e45ec9e2-5bec-47ac-a4d1-cb1a0d81f7a4.
+Updated R13 fields.
+Updated R13 sheetname to '/Switch  Input Section/'.
+Updated R13 sheetfile to 'Switch  Input Section .kicad_sch'.
+Updated R13 footprint filters to 'R_*'.
+Connected R13 pin 2 to /Switch  Input Section/SW_DC3V3.
+Connected R13 pin 1 to /Switch  Input Section/OSW3.
+Updated R13 unit metadata.
+Connected AC1 pin 2 to Net-(AC1-Pin_2).
+Added R14 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to R14.
+Changed R14 value from R_0603_1608Metric to R.
+Updated R14 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/6a879728-7d88-411d-9f05-bf9852f3bcdd.
+Updated R14 fields.
+Updated R14 sheetname to '/Switch  Input Section/'.
+Updated R14 sheetfile to 'Switch  Input Section .kicad_sch'.
+Updated R14 footprint filters to 'R_*'.
+Connected R14 pin 1 to /Switch  Input Section/OSW4.
+Connected R14 pin 2 to /Switch  Input Section/SW_DC3V3.
+Updated R14 unit metadata.
+Connected AC1 pin 3 to Net-(AC1-Pin_3).
+Added SW1 (footprint 'Button_Switch_SMD:SW_SPST_Omron_B3FS-100xP').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_SPST_Omron_B3FS-100xP to SW_Omron_B3FS.
+Updated SW1 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/3c098d1a-061d-4c13-a017-25a3d19c011e.
+Updated SW1 fields.
+Updated SW1 sheetname to '/ESP32/'.
+Updated SW1 sheetfile to 'ESP32.kicad_sch'.
+Updated SW1 footprint filters to 'SW*Omron*B3FS*'.
+Connected SW1 pin 1 to Net-(U1-IO25).
+Connected SW1 pin 2 to VCC3V3.
+Connected SW1 pin 2 to VCC3V3.
+Connected SW1 pin 1 to Net-(U1-IO25).
+Updated SW1 unit metadata.
+Updated AC1 unit metadata.
+Added SW2 (footprint 'Button_Switch_SMD:SW_SPST_B3U-1000P').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_SPST_B3U-1000P to SW_SPST.
+Updated SW2 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/7e5329d5-b886-4a22-a9e1-8835ababa53a.
+Updated SW2 fields.
+Updated SW2 sheetname to '/Switch  Input Section/'.
+Updated SW2 sheetfile to 'Switch  Input Section .kicad_sch'.
+Connected SW2 pin 1 to /Switch  Input Section/GND.
+Connected SW2 pin 2 to /Switch  Input Section/OSW1.
+Updated SW2 unit metadata.
+Added C1 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Added SW3 (footprint 'Button_Switch_SMD:SW_SPST_B3U-1000P').
+Changed REF** reference designator to SW3.
+Changed SW3 value from SW_SPST_B3U-1000P to SW_SPST.
+Updated SW3 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/c1193a96-91ae-4c68-81e2-6d1119c4d040.
+Updated SW3 fields.
+Updated SW3 sheetname to '/Switch  Input Section/'.
+Updated SW3 sheetfile to 'Switch  Input Section .kicad_sch'.
+Connected SW3 pin 2 to /Switch  Input Section/OSW2.
+Connected SW3 pin 1 to /Switch  Input Section/GND.
+Updated SW3 unit metadata.
+Changed REF** reference designator to C1.
+Added SW4 (footprint 'Button_Switch_SMD:SW_SPST_B3U-1000P').
+Changed REF** reference designator to SW4.
+Changed SW4 value from SW_SPST_B3U-1000P to SW_SPST.
+Updated SW4 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/209c032a-f2a7-4ff0-8f50-9345fd1d7f38.
+Updated SW4 fields.
+Updated SW4 sheetname to '/Switch  Input Section/'.
+Updated SW4 sheetfile to 'Switch  Input Section .kicad_sch'.
+Connected SW4 pin 1 to /Switch  Input Section/GND.
+Connected SW4 pin 2 to /Switch  Input Section/OSW3.
+Updated SW4 unit metadata.
+Changed C1 value from C_0201_0603Metric to C.
+Added SW5 (footprint 'Button_Switch_SMD:SW_SPST_B3U-1000P').
+Changed REF** reference designator to SW5.
+Changed SW5 value from SW_SPST_B3U-1000P to SW_SPST.
+Updated SW5 symbol association from  to /37b7dfa6-9cf9-4996-ac6a-e6210fe58498/6eeaf8ad-686e-431c-b618-bb439d83beec.
+Updated SW5 fields.
+Updated SW5 sheetname to '/Switch  Input Section/'.
+Updated SW5 sheetfile to 'Switch  Input Section .kicad_sch'.
+Connected SW5 pin 1 to /Switch  Input Section/GND.
+Connected SW5 pin 2 to /Switch  Input Section/OSW4.
+Updated SW5 unit metadata.
+Updated C1 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/be06c641-33d3-4cfa-bbe0-bf44b16923e6.
+Added U1 (footprint 'RF_Module:ESP32-WROOM-32').
+Changed REF** reference designator to U1.
+Updated U1 symbol association from  to /44f518f8-9b64-4d88-9956-1cf6042637dd/171c5907-480a-4c2e-b3d0-3d6b952d2500.
+Updated U1 fields.
+Updated U1 sheetname to '/ESP32/'.
+Updated U1 sheetfile to 'ESP32.kicad_sch'.
+Updated U1 footprint filters to 'ESP32?WROOM?32*'.
+Add net unconnected-(U1-IO23-Pad37).
+Connected U1 pin 37 to unconnected-(U1-IO23-Pad37).
+Add net unconnected-(U1-IO34-Pad6).
+Connected U1 pin 6 to unconnected-(U1-IO34-Pad6).
+Add net unconnected-(U1-SCS/CMD-Pad19).
+Connected U1 pin 19 to unconnected-(U1-SCS/CMD-Pad19).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SWP/SD3-Pad18).
+Connected U1 pin 18 to unconnected-(U1-SWP/SD3-Pad18).
+Connected U1 pin 10 to Net-(U1-IO25).
+Add net unconnected-(U1-IO5-Pad29).
+Connected U1 pin 29 to unconnected-(U1-IO5-Pad29).
+Connected U1 pin 25 to R1.
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 27 to R3.
+Add net unconnected-(U1-IO26-Pad11).
+Connected U1 pin 11 to unconnected-(U1-IO26-Pad11).
+Connected U1 pin 36 to SCL.
+Add net unconnected-(U1-SDO/SD0-Pad21).
+Connected U1 pin 21 to unconnected-(U1-SDO/SD0-Pad21).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 33 to SDA.
+Connected U1 pin 35 to /ESP32/TXD.
+Connected U1 pin 38 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SENSOR_VN-Pad5).
+Connected U1 pin 5 to unconnected-(U1-SENSOR_VN-Pad5).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO35-Pad7).
+Connected U1 pin 7 to unconnected-(U1-IO35-Pad7).
+Connected U1 pin 2 to VCC3V3.
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 15 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SHD/SD2-Pad17).
+Connected U1 pin 17 to unconnected-(U1-SHD/SD2-Pad17).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 1 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO12-Pad14).
+Connected U1 pin 14 to unconnected-(U1-IO12-Pad14).
+Add net unconnected-(U1-IO2-Pad24).
+Connected U1 pin 24 to unconnected-(U1-IO2-Pad24).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SENSOR_VP-Pad4).
+Connected U1 pin 4 to unconnected-(U1-SENSOR_VP-Pad4).
+Add net unconnected-(U1-IO15-Pad23).
+Connected U1 pin 23 to unconnected-(U1-IO15-Pad23).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO13-Pad16).
+Connected U1 pin 16 to unconnected-(U1-IO13-Pad16).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO33-Pad9).
+Connected U1 pin 9 to unconnected-(U1-IO33-Pad9).
+Add net unconnected-(U1-SDI/SD1-Pad22).
+Connected U1 pin 22 to unconnected-(U1-SDI/SD1-Pad22).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 34 to /ESP32/RXD.
+Add net unconnected-(U1-IO18-Pad30).
+Connected U1 pin 30 to unconnected-(U1-IO18-Pad30).
+Add net unconnected-(U1-IO14-Pad13).
+Connected U1 pin 13 to unconnected-(U1-IO14-Pad13).
+Add net unconnected-(U1-NC-Pad32).
+Connected U1 pin 32 to unconnected-(U1-NC-Pad32).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 8 to LDR.
+Connected U1 pin 12 to DHT11.
+Connected U1 pin 3 to Net-(U1-EN).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-SCK/CLK-Pad20).
+Connected U1 pin 20 to unconnected-(U1-SCK/CLK-Pad20).
+Add net unconnected-(U1-IO17-Pad28).
+Connected U1 pin 28 to unconnected-(U1-IO17-Pad28).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Connected U1 pin 39 to Net-(U1-GND-Pad1).
+Add net unconnected-(U1-IO19-Pad31).
+Connected U1 pin 31 to unconnected-(U1-IO19-Pad31).
+Connected U1 pin 26 to R2.
+Updated U1 unit metadata.
+Updated C1 fields.
+Added U2 (footprint 'Package_TO_SOT_SMD:TO-252-2').
+Changed REF** reference designator to U2.
+Changed U2 value from TO-252-2 to L7805.
+Updated U2 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/46c67de5-314d-464a-99b1-aa1d98d2d715.
+Updated U2 fields.
+Updated U2 sheetname to '/POWER SUPPLY/'.
+Updated U2 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated U2 footprint filters to 'TO?252* TO?263* TO?220*'.
+Connected U2 pin 2 to VCC3V3.
+Connected U2 pin 1 to /POWER SUPPLY/12VDC.
+Connected U2 pin 3 to 5VDC.
+Updated U2 unit metadata.
+Updated C1 sheetname to '/ESP32/'.
+Added U3 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U3.
+Changed U3 value from SOT-223-3_TabPin2 to AMS1117-1.5.
+Updated U3 symbol association from  to /0c16b760-38c6-480f-a3c4-0f338d52cc28/749126e8-1314-427c-92b9-365cd46c603a.
+Updated U3 fields.
+Updated U3 sheetname to '/POWER SUPPLY/'.
+Updated U3 sheetfile to 'POWER SUPPLY.kicad_sch'.
+Updated U3 footprint filters to 'SOT?223*TabPin2*'.
+Connected U3 pin 2 to VCC3V3.
+Connected U3 pin 2 to VCC3V3.
+Connected U3 pin 3 to /POWER SUPPLY/12VDC.
+Connected U3 pin 1 to VCC3V3.
+Updated U3 unit metadata.
+Updated C1 sheetfile to 'ESP32.kicad_sch'.
+Added U4 (footprint 'Package_DIP:DIP-4_W7.62mm').
+Changed REF** reference designator to U4.
+Changed U4 value from DIP-4_W7.62mm to PC817.
+Updated U4 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/a2ad8627-ce00-4b1a-b2b9-8b887d840973.
+Updated U4 fields.
+Updated U4 sheetname to '/RELAY SECTION/'.
+Updated U4 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated U4 footprint filters to 'DIP*W7.62mm*'.
+Connected U4 pin 3 to Net-(R7-Pad1).
+Connected U4 pin 2 to VCC3V3.
+Connected U4 pin 1 to Net-(R5-Pad2).
+Connected U4 pin 4 to 5VDC.
+Updated U4 unit metadata.
+Updated C1 footprint filters to 'C_*'.
+Added U5 (footprint 'Package_DIP:DIP-4_W7.62mm').
+Changed REF** reference designator to U5.
+Changed U5 value from DIP-4_W7.62mm to PC817.
+Updated U5 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/9186df1f-ca2d-42e0-8fdd-944c9fe3c4a6.
+Updated U5 fields.
+Updated U5 sheetname to '/RELAY SECTION/'.
+Updated U5 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated U5 footprint filters to 'DIP*W7.62mm*'.
+Connected U5 pin 2 to VCC3V3.
+Connected U5 pin 3 to Net-(R8-Pad1).
+Connected U5 pin 4 to 5VDC.
+Connected U5 pin 1 to Net-(R6-Pad2).
+Updated U5 unit metadata.
+Connected C1 pin 2 to Net-(U1-EN).
+Added U6 (footprint 'Package_DIP:DIP-4_W7.62mm').
+Changed REF** reference designator to U6.
+Changed U6 value from DIP-4_W7.62mm to PC817.
+Updated U6 symbol association from  to /f56e6c26-755c-472e-a790-45bfd5c91ea7/d183ea47-7f0c-418c-9e97-f417644fa42b.
+Updated U6 fields.
+Updated U6 sheetname to '/RELAY SECTION/'.
+Updated U6 sheetfile to 'RELAY SECTION.kicad_sch'.
+Updated U6 footprint filters to 'DIP*W7.62mm*'.
+Connected U6 pin 3 to Net-(R10-Pad1).
+Connected U6 pin 4 to 5VDC.
+Connected U6 pin 2 to VCC3V3.
+Connected U6 pin 1 to Net-(R9-Pad2).
+Updated U6 unit metadata.
+Removed unused net Net-(D2-K).
+Removed unused net Net-(D3-K).
+Removed unused net Net-(D4-K).
+
+
+Info: Total warnings: 0, errors: 0.
