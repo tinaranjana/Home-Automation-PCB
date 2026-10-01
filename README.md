@@ -65,7 +65,7 @@ Through this project, I learned:
 
 ### PCB 3D View
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8c887081-4ea0-4384-99e6-59f277cec738" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/439c8c9f-97b5-41c0-aa75-63e0c48751a3" />
 
 
 ### PCB Layout
